@@ -95,7 +95,7 @@ Tape
 &nbsp;
 
 ![][image1]
-
+![image1](circuit.png)
 &nbsp;
 
 &nbsp;
