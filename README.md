@@ -147,7 +147,7 @@ Tape
 &nbsp;
 
 ![][image2]
-
+![image2](shematic.png)
 &nbsp;
 
 &nbsp;
