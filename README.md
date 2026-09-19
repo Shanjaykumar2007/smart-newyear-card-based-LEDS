@@ -223,6 +223,7 @@ Tape
 &nbsp;
 
 ![][image3]
+![image](RESULT.jpeg).
 
 &nbsp;
 
